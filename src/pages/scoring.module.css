@@ -1,0 +1,36 @@
+  table {
+    border-collapse: collapse;
+  }
+
+  tr {
+    border: thin solid grey;
+  }
+
+  th {
+    padding-right: 10px;
+  }
+
+  .btnSubmit{
+    background-color: black;
+    color: white;
+  }
+
+  .container__button{
+    margin-top: 10px;
+    display: flex;
+    justify-content: flex-end;
+  }
+
+  .selectInput{
+    width: 100px;
+  }
+
+  .container__profile{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+  }
+
+  .profile__image{
+    width: 25px;
+  }
